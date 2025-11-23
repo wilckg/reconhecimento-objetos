@@ -1,0 +1,17 @@
+# Saídas do YOLO
+runs/
+
+# Vídeos e mídias grandes
+videos/
+media/
+
+# Cache Python
+__pycache__/
+
+# Vídeos pesados
+*.mp4
+*.avi
+
+# Logs e temporários
+*.log
+*.tmp
