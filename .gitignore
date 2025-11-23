@@ -6,8 +6,8 @@ media/
 __pycache__/
 
 # Vídeos pesados
-*.mp4
-*.avi
+# *.mp4
+# *.avi
 
 # Logs e temporários
 *.log
